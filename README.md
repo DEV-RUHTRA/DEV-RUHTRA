@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Arthur Rodrigues! 👋😄</h1>
+<h1 align="center">Olá, eu sou o Arthur Rodrigues! </h1>
 
 <p align="center">
   👨🏻‍💻 Estudante de Programação | 💪 Apaixonado por Tecnologia e Musculação | 🎮 Gamer nas horas vagas
@@ -10,7 +10,6 @@
 
 - 🎓 Estudante de Ciência da Computação na [Universidade Federal de Juiz de Fora (UFJF)](https://www.instagram.com/ufjf/)
 - 🧑 Tenho 18 anos
-- 🧠 Curioso por natureza e sempre em busca de novos aprendizados
 - 🚀 Iniciando minha jornada na programação e explorando o universo da tecnologia
 
 ---
