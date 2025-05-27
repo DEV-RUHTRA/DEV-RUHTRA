@@ -9,7 +9,7 @@
 ## 📚 Sobre mim
 
 - 🎓 Estudante de Ciência da Computação na [Universidade Federal de Juiz de Fora (UFJF)](https://www.instagram.com/ufjf/)
-- 🧑 Tenho 18 anos
+- 🧑 Tenho 19 anos
 
 ---
 
