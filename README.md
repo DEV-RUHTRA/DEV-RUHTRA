@@ -15,8 +15,8 @@
 ## 📚 Sobre mim
 
 - 🎓 Estudante de **Ciência da Computação** na [UFJF](https://www.instagram.com/ufjf/)
-- 🧠 Sempre buscando aprender mais sobre **algoritmos, estruturas de dados e programação competitiva**
-- 📍  Localização: **Brasil**
+- 🧠 Sempre buscando aprender mais sobre **algoritmos, estruturas de dados e cybersecurity**
+- 📍 Localização: **Brasil**
 - 🧑 Idade: **19 anos**
 
 ---
